@@ -1,4 +1,4 @@
-# Do you play League of Legends? Are you struggling with losing games? What are your favorite champions? Do you want to know what factors affect the win rate most?
+Do you play League of Legends? Are you struggling with losing games? What are your favorite champions? Do you want to know what factors affect the win rate most?
 
 If you don’t want to lose games, you should, of course, improve your skills in-game control and awareness in playing games. However, the champion selection is also important. 
 
